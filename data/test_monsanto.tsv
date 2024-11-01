@@ -1,0 +1,52 @@
+fine_label utterance
+GHOST:ghostwriting This document contains email correspondence between Dr. Jonathan Clark and Dr. Sarah Martin discussing the possibility of ghostwriting a chapter on glyphosate studies. Dr. Martin notes that the chapter would benefit from the involvement of an independent scientist for credibility.
+GHOST:ghostwriting An email between two Monsanto employees discussing a plan to add Dr. Philip Stevens as a co-author on a manuscript to strengthen the credibility of the paper. The email mentions a budget of $15 000 to cover his participation.
+GHOST:ghostwriting A consulting agreement between Monsanto and Dr. Lisa Carter for ghostwriting a manuscript on herbicide safety  where the consulting fees were $22 000 for 2020.
+GHOST:ghostwriting This document contains email correspondence between Dr. Jane Doe and Dr. Thomas Grant where Dr. Doe objects to the ghostwriting of a study  calling it 'unethical and deceptive.'
+GHOST:peer_review This document is an email from Dr. Michael Brown to Dr. Susan Lee  asking her to review a paper on glyphosate toxicity that Dr. Brown has been asked to peer review. Dr. Lee is expected to provide feedback that will influence the final decision.
+GHOST:peer_review A peer review report by Dr. Sarah Johnson critiquing the methodology of a study on herbicide effects  suggesting significant revisions before publication.
+GHOST:peer_review An email from Dr. Kevin Moore to Dr. Lisa Green discussing changes in the peer review process for a study on pesticide safety  with Dr. Moore expressing concerns about potential bias in the review.
+TOXIC:surfactants Email correspondence between Dr. David Kim and a Monsanto researcher discussing the toxicological effects of surfactants used in glyphosate formulations.
+TOXIC:surfactants This document contains an internal Monsanto study on the effects of surfactants in Roundup formulations  showing potential links to skin irritation.
+TOXIC:surfactants This email between two Monsanto scientists discusses whether to continue testing surfactants in glyphosate products  citing concerns about adverse effects identified in preliminary studies.
+TOXIC:carcinogenicity An internal report on glyphosate testing in lab animals  showing a statistically significant increase in tumors in the exposed group.
+TOXIC:carcinogenicity An email exchange between Dr. John Smith and Dr. Emily Davis discussing results from a carcinogenicity study on glyphosate. Dr. Smith recommends downplaying the findings in public reports.
+TOXIC:carcinogenicity This document contains correspondence between a Monsanto researcher and the EPA  discussing concerns raised by a long-term carcinogenicity study.
+TOXIC:testing Email correspondence between Monsanto scientists regarding the halt of a study on Roundup formulations  citing insufficient evidence to continue testing.
+TOXIC:testing This email discusses a Monsanto-led study on the absorption rates of glyphosate and related compounds in lab animals  revealing inconsistencies in the data.
+TOXIC:testing This document contains correspondence about a new round of tests on glyphosate  focusing on dermal absorption in humans. The email raises concerns about the potential health risks identified in early testing.
+CHEMI:absorption A document summarizing findings from a study on the absorption of glyphosate through human skin  noting the role of surfactants in increasing absorption rates.
+CHEMI:absorption An internal email from Monsanto researchers discussing the results of a dermal absorption study  highlighting concerns over elevated absorption rates of glyphosate when combined with surfactants.
+CHEMI:absorption This document contains email correspondence between Dr. Samuel Wright and Dr. Allison Parker discussing the high absorption rates observed in a recent glyphosate study  suggesting the need for further investigation.
+CHEMI:distribution A paper written by Dr. James Clark on the distribution of glyphosate in the human body  indicating that the majority of the compound is excreted through urine.
+CHEMI:distribution This document contains an email exchange between Dr. Lisa Adams and Dr. Mark Johnson discussing the metabolic pathway of glyphosate in lab animals  focusing on its distribution through different tissues.
+CHEMI:distribution An internal report on the distribution of glyphosate in humans  noting that dermal absorption leads to higher levels of the compound in the blood compared to oral ingestion.
+CHEMI:metabolism An internal study on glyphosate metabolism  suggesting that the compound is primarily excreted through feces after dermal absorption.
+CHEMI:metabolism This email correspondence discusses whether additional studies on glyphosate metabolism are necessary  with researchers expressing concerns over potential negative findings.
+CHEMI:metabolism An internal document outlining the metabolic pathways of glyphosate in humans  emphasizing differences between oral and dermal absorption.
+CHEMI:excretion A report on glyphosate excretion in humans  noting that the compound is primarily excreted through urine and suggesting further studies on its environmental impact.
+CHEMI:excretion Email correspondence between Monsanto researchers discussing the excretion of glyphosate  noting that higher levels of the compound were found in urine samples from subjects with dermal exposure.
+CHEMI:excretion A study on the excretion of glyphosate through feces  showing that dermal absorption leads to higher fecal concentrations compared to oral ingestion.
+REGUL:regulatory This document contains email correspondence between Monsanto regulatory staff and the EPA regarding the review process for glyphosate  focusing on recent changes to regulatory guidelines.
+REGUL:regulatory An internal email discussing strategies for influencing regulatory decisions on glyphosate safety  suggesting outreach to key figures in the EPA.
+REGUL:regulatory This email exchange between Monsanto executives outlines plans to engage with European regulatory bodies to defend the safety of glyphosate products.
+REGUL:government An email discussing the involvement of government officials in a review panel on glyphosate safety  with Monsanto staff proposing candidates for the panel.
+REGUL:government A document containing email correspondence between Monsanto and government officials regarding lobbying efforts to influence glyphosate safety regulations.
+REGUL:government This email contains internal discussion among Monsanto employees about a strategy to work with government agencies to counter negative findings related to glyphosate.
+GHOST:retraction An email from Dr. Kevin Brown to Dr. Lisa Green asking for her help in retracting a study that found adverse effects of glyphosate. Dr. Brown suggests coordinating with legal teams before proceeding.
+GHOST:retraction This document contains email correspondence between Dr. Jessica Carter and Dr. Robert Harris discussing the retraction of a study that linked glyphosate to cancer. Dr. Carter advises on public messaging strategies.
+GHOST:retraction An email exchange between Monsanto researchers about retracting a study on glyphosate  with discussions about potential legal implications and how to frame the retraction publicly.
+TOXIC:surfactants Email correspondence between Dr. Michael Thomas and a Monsanto researcher discussing new data showing toxic effects of surfactants in Roundup formulations  with concerns about regulatory repercussions.
+TOXIC:surfactants This document contains a Monsanto report on the toxic effects of surfactants in glyphosate formulations  with recommendations to downplay the findings in future publications.
+TOXIC:carcinogenicity A study conducted by Monsanto showing that glyphosate caused a significant increase in tumor formation in lab animals  with internal discussions about whether to publish the findings.
+TOXIC:carcinogenicity An internal email discussing the results of a carcinogenicity study on glyphosate  suggesting that the company should delay releasing the study until further analysis is done.
+TOXIC:carcinogenicity A correspondence between Monsanto executives about how to respond to new studies linking glyphosate to cancer  with a focus on controlling public perception and regulatory outcomes.
+CHEMI:absorption This document contains a study on the absorption of glyphosate through human skin  highlighting concerns about increased absorption when surfactants are used in the formulation.
+CHEMI:absorption An internal email from Monsanto scientists discussing the implications of a study that found higher-than-expected absorption rates of glyphosate in human skin.
+CHEMI:absorption Email correspondence between Dr. Jennifer Lee and Dr. Robert Matthews discussing how to present the findings from a dermal absorption study on glyphosate  which showed elevated absorption rates.
+REGUL:government This document contains internal Monsanto discussions about lobbying efforts to influence regulatory agencies' decisions regarding glyphosate  with plans to engage key government officials.
+REGUL:government An email exchange between Monsanto executives discussing a meeting with a government official to ensure that regulatory decisions on glyphosate remain favorable.
+REGUL:government Internal correspondence about coordinating efforts with government agencies to counter negative findings from an independent glyphosate safety review.
+REGUL:regulatory An email between Monsanto employees discussing upcoming regulatory reviews of glyphosate  with concerns about potential changes to safety standards.
+REGUL:regulatory This document contains email correspondence discussing Monsanto's strategy to engage with European regulators about glyphosate safety standards  with a focus on minimizing potential restrictions.
+REGUL:regulatory An internal email discussing concerns over new regulatory guidelines for glyphosate  with Monsanto executives planning outreach to key figures in the regulatory process.

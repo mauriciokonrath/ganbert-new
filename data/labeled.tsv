@@ -1,0 +1,110 @@
+fine_label utterance
+NUM:count Quantos jarros ocupam a prateleira ao lado da mulher agachada na pintura de 1886 de Edgar Degas, "O Banho" ? 
+ENTY:other Qual lado do rosto a maioria dos artistas tende a mostrar mais em autorretratos ? 
+ENTY:food Qual barra de chocolate criada por Frank Mars e sua esposa é frequentemente chamada de Milky Way com amendoins ? 
+DESC:reason Por que os galos cantam às cinco horas da manhã ? 
+HUM:ind Como se chama uma pessoa que gosta de fogo ? 
+NUM:perc Quais são as maiores probabilidades de pagamento em uma mesa de roleta ? 
+HUM:ind Qual ex-líder africano manteve o título de boxe de seu país por nove anos ? 
+DESC:reason Dê um motivo pelo qual os índios americanos frequentemente abandonam a escola.
+LOC:other Que ilhas receberam seu nome da expressão espanhola "baja mar" ? 
+DESC:def O que é a teoria quimiosmótica ? 
+HUM:desc Quem é Desmond Tutu ? 
+LOC:other Onde posso encontrar todas as informações que preciso saber sobre a Guerra Civil Inglesa ? 
+DESC:reason Por que os telhados no Canadá são verdes ? 
+HUM:ind Qual é o nome da Miss Índia 1994 ? 
+DESC:def O que é um nicho ecológico ? 
+LOC:city Qual foi a primeira cidade a ser incorporada em Vermont ? 
+HUM:ind Quem é a famosa estrela de cinema que também atuou como comissário de esgotos do Provo Canyon ? 
+NUM:date Quando foi a última grande erupção do Monte St. Helen ? 
+DESC:manner Como faço para descobrir quais cidades estão em um determinado código de área ? 
+HUM:ind Qual é o nome do diretor-gerente da Apricot Computer ? 
+ENTY:other Qual é a soma das faces opostas de um dado ? 
+DESC:reason Por que os sorvetes sundae são chamados de sundae ? 
+LOC:other Em que sala W.C. Fields mantinha sua biblioteca ? 
+ENTY:techmeth Qual é a melhor maneira de superar um medo ? 
+LOC:country Quais dois países europeus são unidos pelo Passo Gran San Bernardo ? 
+ENTY:cremat Qual música de George Harrison parecia muito com "He's So Fine" de The Chiffons ? 
+ENTY:substance Quais produtos químicos nocivos estão no spray contra insetos ? 
+ENTY:cremat Qual era o nome do programa de televisão ? 
+HUM:ind Quem parou de fazer entradas no diário em 31 de maio ? 
+ENTY:other Qual "carro vermelho pequeno" é mencionado no hit do cantor pop Prince ? 
+NUM:count Quantas pessoas são mais altas que 7 pés ? 
+ENTY:dismed Para qual doença o medicamento Sinemet é usado como tratamento ? 
+DESC:desc No livro de Waugh, "A Handful of Dust", o que acontece ? 
+DESC:desc Quais são as letras do hino nacional dos Estados Unidos, "The Star-Spangled Banner" ? 
+NUM:count Quantas mãos Bjorn Borg usa ao bater seu forehand ? 
+LOC:state Qual é o estado mais ao norte dos EUA, além do Alasca ? 
+ABBR:exp O que significa "NN O" quando usado como prefixo em sobrenomes irlandeses ? 
+ENTY:currency Qual é a moeda usada na Austrália ? 
+ENTY:animal Quais são os três animais em "The Incredible Journey" de Sheila Burnford ? 
+LOC:other Qual é o maior condado em tamanho em Massachusetts ? 
+HUM:ind Quem interpretou W.C. Fields no filme "W.C. Fields and Me" ? 
+HUM:ind Qual é o nome da tia de Tom Sawyer com quem ele mora ? 
+ABBR:exp O que significa CNN ? 
+LOC:other Qual região montanhosa do mundo é nativa o cão Lhasa Apso ? 
+LOC:state Qual estado dos EUA tem a menor elevação máxima a 6 pés ? 
+ENTY:termeq Qual é o termo para um grupo de gansos ? 
+NUM:count Quantas espécies do tubarão-branco existem ? 
+HUM:ind Quem escreveu a música ? 
+HUM:ind Qual dos jornalistas de TV a seguir foi bolsista de Rhodes ? 
+HUM:title Qual é a profissão dela ? 
+HUM:ind Qual é o nome do presidente da Garmat EUA ? 
+LOC:other De onde é originalmente Erykah Badu ? 
+LOC:country Qual país tem como cidade mais ao norte Darwin ? 
+DESC:manner Como um estrangeiro pode obter um cartão de Seguro Social dos EUA ? 
+DESC:def Qual é a pedra de nascimento de junho ? 
+LOC:other Onde posso encontrar a história da língua taiwanesa ? 
+ENTY:other Qual é o nome da espada do Rei Arthur ? 
+LOC:other Onde posso obter informações sobre fibrose cística ? 
+NUM:count Quantas asas tem uma pulga ? 
+NUM:count Quantos violinos Stradivarius já foram feitos ? 
+NUM:date Em que ano os Jogos Olímpicos foram realizados onde Nadia Comaneci se tornou popular ? 
+DESC:def O que é diabetes ? 
+HUM:ind Qual presidente serviu por cinco anos ? 
+ENTY:other O que significa 8 ? 
+NUM:count Quantos objetos orbitam a Terra ? 
+NUM:perc Qual porcentagem das espécies de plantas e animais do mundo podem ser encontradas nas florestas amazônicas ? 
+NUM:date Quando o supercontinente Pangeia se separou ? 
+LOC:country Qual país reivindicou Rubens ? 
+HUM:desc Quem é Stephen Hawking ? 
+LOC:other Onde posso encontrar uma fita ou livro para me ajudar a dizer ? 
+ENTY:food Que tipo de fruta é uma Yellow Transparent ? 
+HUM:ind Qual grande romancista vitoriano passou tanto tempo trabalhando para o correio quanto escrevendo ? 
+NUM:dist Qual é a altura do Matterhorn ? 
+HUM:ind Qual foi o nome do diretor do filme "Tubarão" ? 
+DESC:def O que é troilismo ? 
+DESC:manner Como é correto dizer 'qigong' ? 
+HUM:gr Qual grande companhia aérea tem o melhor histórico de segurança do mundo ? 
+NUM:count Quantos códigos postais existem nos EUA ? 
+DESC:def O que é barnstorming ? 
+HUM:ind Quem é o único presidente enterrado em Washington ? 
+DESC:reason Qual é a fama de Agra ? 
+DESC:reason O que formou os Finger Lakes no oeste de Nova York ? 
+ENTY:cremat Qual regular do Mary Tyler Moore Show veio ao mundo como Tadeus Wladyslaw Konopka ? 
+HUM:ind Quem é o fundador da Cientologia ? 
+HUM:ind Quem foi "O Orgulho dos Yankees" ? 
+ABBR:exp O que significa snafu ? 
+LOC:other Onde se passam as aventuras de "The Swiss Family Robinson" ? 
+NUM:other Quais são os números que se encaixam no último teorema de Fermat ? 
+HUM:ind Qual é o nome do meio de Michael Jackson ? 
+HUM:ind De quem foi a voz cantada dublada para Natalie Wood em West Side Story e Audrey Hepburn em My Fair Lady ? 
+DESC:manner Quão próximo primo era Franklin D. de Theodore Roosevelt ? 
+LOC:other Onde posso encontrar informações sobre pesquisas sendo feitas em oleaginosas através da genética ? 
+HUM:ind Qual foi a contribuição de Benjamin Franklin para o desenvolvimento do jornal nos Estados Unidos ? 
+LOC:city Qual cidade possui o mercado de peixes Billingsgate ? 
+HUM:ind Qual americano ganhou o campeonato mundial de Fórmula 1 em 1978 ? 
+ENTY:termeq Que termo então depreciativo foi aplicado aos pintores Monet ? 
+NUM:volsize Qual é o tamanho do refúgio ártico para preservar o valor único da vida selvagem e do deserto na costa norte do Alasca ? 
+DESC:manner Como posso cantar como Elvis Presley ? 
+ABBR:abb Qual é a abreviação do Comitê Olímpico Internacional ? 
+HUM:ind Qual escritor clássico espanhol disse "Nem tudo que reluz é ouro" ? 
+HUM:ind Quem é a namorada do Tio Duke ? 
+ENTY:animal De que espécie é um potro ? 
+DESC:def O que são os alvéolos ? 
+ENTY:other O que o coronel Edwin L. Drake, consciente do dinheiro, foi o primeiro a perfurar ? 
+DESC:def O que é moxie ? 
+NUM:other Qual é a taxa média por hora dos trabalhadores americanos ? 
+HUM:ind Quem é o amigo sempre perdido de Rocky e Bullwinkle ? 
+LOC:other Qual é a página inicial da Homelite Inc. ? 
+ENTY:animal Que cachorro foi apelidado de "The Mortgage Lifter" ? 

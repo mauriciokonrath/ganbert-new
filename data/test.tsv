@@ -1,0 +1,501 @@
+fine_label utterance
+NUM:dist Qual é a distância de Denver a Aspen ?
+LOC:city Em qual condado está Modesto ?
+HUM:desc Quem foi Galileu ?
+DESC:def O que é um átomo ?
+NUM:date Quando o Havaí se tornou um estado ?
+NUM:dist Qual é a altura do Edifício Sears ?
+HUM:gr George Bush comprou uma pequena participação em qual time de beisebol ?
+ENTY:plant Qual é a flor nacional da Austrália ?
+DESC:reason Por que a lua fica laranja ?
+DESC:def O que é autismo ?
+LOC:city Qual cidade teve uma feira mundial em 1900 ?
+HUM:ind Quem é a pessoa cuja cabeça está em uma moeda de dez centavos ?
+NUM:weight Qual é o peso médio de um Labrador Amarelo ?
+HUM:ind Quem foi o primeiro homem a voar pelo Oceano Pacífico ?
+NUM:date Quando Idaho se tornou um estado ?
+NUM:other Qual é a expectativa de vida dos grilos ?
+ENTY:substance Qual metal tem o ponto de fusão mais alto ?
+HUM:ind Quem desenvolveu a vacina contra a poliomielite ?
+DESC:def O que é epilepsia ?
+NUM:date Em que ano o Titanic afundou ?
+HUM:ind Quem foi o primeiro americano a caminhar no espaço ?
+DESC:def O que é uma biosfera ?
+LOC:other Qual rio nos EUA é conhecido como "Big Muddy" ?
+DESC:def O que é transtorno bipolar ?
+DESC:def O que é colesterol ?
+HUM:ind Quem desenvolveu o computador Macintosh ?
+DESC:def O que é cafeína ?
+LOC:other Qual linha imaginária está a meio caminho entre os Polos Norte e Sul ?
+LOC:other Onde está o aeroporto John Wayne ?
+LOC:other Em que hemisfério estão as Filipinas ?
+NUM:speed Qual é a velocidade média dos cavalos no Kentucky Derby ?
+LOC:mount Onde estão as Montanhas Rochosas ?
+DESC:def O que são invertebrados ?
+NUM:temp Qual é a temperatura no centro da Terra ?
+NUM:date Quando John F. Kennedy foi eleito presidente ?
+NUM:period Quantos anos tinha Elvis Presley quando morreu ?
+LOC:other Onde fica o rio Orinoco ?
+NUM:dist Qual é a distância da linha de serviço à rede no tênis ?
+NUM:count Quantas fibras você deve consumir por dia ?
+NUM:count Quantos Grandes Lagos existem ?
+ENTY:plant Material chamado linho é feito de qual planta ?
+DESC:def O que é Teflon ?
+DESC:def O que é amitriptilina ?
+DESC:def O que é um xamã ?
+ENTY:animal Qual é o nome correto para uma fêmea de morsa ?
+ENTY:animal Como se chama um grupo de perus ?
+NUM:period Quanto tempo Rip Van Winkle dormiu ?
+DESC:def O que são triglicerídeos ?
+NUM:count Quantos litros há em um galão ?
+HUM:gr Qual é o nome da empresa de chocolates em San Francisco ?
+DESC:def O que são anfíbios ?
+HUM:ind Quem descobriu os raios X ?
+HUM:ind Qual comediante tinha como bordão a frase "Podemos conversar" ?
+DESC:def O que é fibromialgia ?
+DESC:desc O que é feito com bandeiras desgastadas ou desatualizadas ?
+DESC:def O que significa "cc" em motores ?
+NUM:date Quando Elvis Presley morreu ?
+LOC:city Qual é a capital da Iugoslávia ?
+LOC:city Onde fica Milão ?
+NUM:speed Qual é a velocidade dos beija-flores ?
+LOC:city Qual é a cidade mais antiga dos Estados Unidos ?
+HUM:ind Qual era o verdadeiro nome de W.C. Fields ?
+LOC:other Qual rio corre entre Fargo e Moorhead ?
+ENTY:food O que os morcegos comem ?
+LOC:state Em que estado ocorreu a Batalha de Bighorn ?
+HUM:desc Quem foi Abraham Lincoln ?
+ENTY:termeq Como se chama um canguru recém-nascido ?
+DESC:def O que são veias varicosas ?
+NUM:date Em que dia e mês John Lennon morreu ?
+LOC:other Que estreito separa a América do Norte da Ásia ?
+NUM:other Qual é a população de Seattle ?
+NUM:money Quanto custava um bilhete para o Titanic ?
+LOC:city Qual é a maior cidade do mundo ?
+HUM:ind Qual compositor americano escreveu a música para "West Side Story" ?
+LOC:other Onde fica o Mall of America ?
+DESC:def O que é a escala de pH ?
+ENTY:currency Que tipo de moeda é usada na Austrália ?
+NUM:dist Qual é a altura do Arco Gateway em St. Louis ?
+NUM:weight Quanto pesa o cérebro feminino adulto humano ?
+HUM:ind Quem foi o primeiro governador do Alasca ?
+DESC:def O que é um prisma ?
+NUM:date Quando foi o primeiro transplante de fígado ?
+HUM:ind Quem foi eleito presidente da África do Sul em 1994 ?
+NUM:other Qual é a população da China ?
+NUM:date Quando Rosa Parks nasceu ?
+DESC:reason Por que uma joaninha é útil ?
+DESC:def O que é amoxicilina ?
+HUM:ind Quem foi a primeira mulher representante dos Estados Unidos ?
+DESC:def O que são xerófitas ?
+LOC:country De qual país veio Ponce de Leon ?
+ENTY:event Durante qual guerra o Departamento do Tesouro dos EUA emitiu a primeira moeda de papel dos EUA ?
+DESC:def O que é editoração eletrônica ?
+NUM:temp Qual é a temperatura da superfície do sol ?
+NUM:date Em que ano o Canadá se juntou às Nações Unidas ?
+HUM:gr Qual é a universidade mais antiga dos EUA ?
+LOC:other Onde fica a Ilha do Príncipe Eduardo ?
+NUM:date Quando Mercúrio e Netuno foram descobertos ?
+DESC:def O que é criogenia ?
+DESC:def O que são recifes de coral ?
+ENTY:other Qual é a maior sequência de vitórias na liga principal de beisebol ?
+DESC:def O que é neurologia ?
+HUM:ind Quem inventou a calculadora ?
+DESC:manner Como você mede terremotos ?
+HUM:desc Quem é Duke Ellington ?
+LOC:city Em qual condado está Phoenix ?
+DESC:def O que é um mícron ?
+NUM:temp Qual é a temperatura do núcleo do sol ?
+ENTY:animal Qual é o pássaro oficial do estado de Ohio ?
+NUM:date Quando nasceram os gêmeos de William Shakespeare ?
+LOC:other Qual é a barragem mais alta dos EUA ?
+ENTY:color Qual é a cor de um sapo venenoso ?
+DESC:def O que é acupuntura ?
+NUM:dist Qual é o comprimento da costa do estado do Alasca ?
+HUM:ind Qual é o nome da esposa de Neil Armstrong ?
+ENTY:plant Qual é a flor oficial do estado do Havaí ?
+HUM:ind Quem ganhou o concurso Miss América em 1989 ?
+NUM:date Quando o Hindenburg caiu ?
+ENTY:substance Qual mineral ajuda a prevenir a osteoporose ?
+NUM:date Qual foi o último ano em que os Chicago Cubs venceram a World Series ?
+LOC:other Onde fica Perth ?
+NUM:date Em que ano começou a Segunda Guerra Mundial ?
+NUM:dist Qual é o diâmetro de uma bola de golfe ?
+DESC:def O que é um eclipse ?
+HUM:ind Quem descobriu a América ?
+NUM:dist Qual é o diâmetro da Terra ?
+HUM:ind Qual presidente era solteiro ?
+NUM:dist Qual é a largura da galáxia Via Láctea ?
+NUM:date Em qual estação ocorrem a maioria das tempestades ?
+DESC:def O que é Wimbledon ?
+NUM:period Qual é o período de gestação de um gato ?
+NUM:dist Qual é a distância de uma milha náutica ?
+HUM:ind Quem foi o abolicionista que liderou o ataque a Harper's Ferry em 1859 ?
+DESC:def O que significa "frequência cardíaca alvo" ?
+ENTY:product Qual foi o primeiro satélite a ir para o espaço ?
+DESC:def O que é execução hipotecária ?
+ENTY:other Qual é a maior falha geológica perto de Kentucky ?
+LOC:other Onde fica o Túnel Holland ?
+HUM:ind Quem escreveu o hino "Amazing Grace" ?
+HUM:title Qual posição Willie Davis jogava no beisebol ?
+DESC:def O que são plaquetas ?
+DESC:def O que é pagamento de rescisão ?
+ENTY:animal Qual é o nome do cachorro de Roy Rogers ?
+LOC:other Onde estão os Arquivos Nacionais ?
+ENTY:animal Como se chama um peru bebê ?
+DESC:def O que é poliomielite ?
+ENTY:body Qual é o osso mais longo do corpo humano ?
+HUM:ind Quem é um filósofo alemão ?
+ENTY:veh Quais eram os três navios de Cristóvão Colombo ?
+DESC:def O que significa Phi Beta Kappa ?
+DESC:def O que é nicotina ?
+ENTY:termeq Qual é outro nome para vitamina B1 ?
+HUM:ind Quem descobriu o rádio ?
+DESC:def O que são manchas solares ?
+NUM:date Quando a Argélia foi colonizada ?
+HUM:gr Qual time de beisebol foi o primeiro a colocar números em seus uniformes ?
+LOC:other Em qual continente está o Egito ?
+LOC:city Qual é a capital da Mongólia ?
+DESC:def O que é nanotecnologia ?
+LOC:other No final dos anos 1700, prisioneiros britânicos foram usados para povoar qual colônia ?
+LOC:state Qual estado é o centro geográfico dos 48 estados contíguos ?
+DESC:def O que é um ângulo obtuso ?
+DESC:def O que são polímeros ?
+NUM:date Quando é a temporada de furacões no Caribe ?
+LOC:other Onde fica o vulcão Mauna Loa ?
+ENTY:termeq Qual é outro termo astronômico para as Luzes do Norte ?
+LOC:other De qual península a Espanha faz parte ?
+NUM:date Quando Lyndon B. Johnson nasceu ?
+DESC:def O que é acetaminofeno ?
+LOC:state Qual estado tem a menor quantidade de chuva por ano ?
+HUM:ind Quem fundou a Cruz Vermelha Americana ?
+NUM:date Em que ano os Milwaukee Braves se tornaram os Atlanta Braves ?
+NUM:speed Quão rápido o álcool é absorvido ?
+NUM:date Quando é o solstício de verão ?
+DESC:def O que é uma supernova ?
+LOC:other Onde fica a Floresta Nacional Shawnee ?
+LOC:state Qual é o lema do estado de New Hampshire ?
+LOC:other Onde fica o Louvre ?
+NUM:date Quando foi emitido o primeiro selo ?
+ENTY:color Quais cores primárias você mistura para fazer laranja ?
+NUM:dist Qual é a distância de Plutão ao sol ?
+LOC:other Em qual corpo de água estão as Ilhas Canárias ?
+DESC:def O que é neuropatia ?
+LOC:other Onde está o rio Eufrates ?
+DESC:def O que é criptografia ?
+ENTY:substance Do que é composto o gás natural ?
+HUM:ind Quem é o primeiro-ministro do Canadá ?
+HUM:ind Qual governante francês foi derrotado na batalha de Waterloo ?
+DESC:def O que é leucemia ?
+LOC:other Onde Howard Hughes morreu ?
+ENTY:substance Qual é a pedra de nascimento de junho ?
+ENTY:other Qual é o imposto sobre vendas em Minnesota ?
+NUM:dist Qual é a distância em milhas da Terra ao sol ?
+NUM:period Qual é a expectativa de vida média de uma galinha ?
+NUM:date Quando foi aberta a primeira loja Wal-Mart ?
+DESC:def O que é umidade relativa ?
+LOC:city Qual cidade tem o código postal 35824 ?
+ENTY:currency Qual moeda é usada na Argélia ?
+HUM:ind Quem inventou o bambolê ?
+ENTY:product Qual foi o brinquedo mais popular em 1957 ?
+ENTY:substance Do que é feito o pastrami ?
+ENTY:product Qual é o nome do satélite que a União Soviética enviou ao espaço em 1957 ?
+LOC:city Qual jornal da cidade se chama "The Enquirer" ?
+HUM:ind Quem inventou o slinky ?
+ENTY:animal Quais são os animais que não têm coluna vertebral chamados ?
+NUM:other Qual é o ponto de fusão do cobre ?
+LOC:other Onde está localizado o vulcão Olympus Mons ?
+HUM:ind Quem foi o 23º presidente dos Estados Unidos ?
+NUM:temp Qual é a temperatura média do corpo humano ?
+DESC:desc O que faz um desfibrilador ?
+DESC:desc Qual é o efeito da chuva ácida ?
+NUM:date Em que ano os Estados Unidos aboliram o alistamento militar ?
+NUM:speed Qual é a velocidade da luz ?
+LOC:state Em qual província está Montreal ?
+LOC:other Qual estrutura da cidade de Nova York também é conhecida como as Torres Gêmeas ?
+DESC:def O que é um fungo ?
+ENTY:lang Qual é a língua mais falada na Holanda ?
+DESC:def O que é cloreto de sódio ?
+ENTY:termeq Como são chamadas as marcas nos dominós ?
+NUM:count Quantos quilos há em uma tonelada ?
+DESC:def O que é influenza ?
+DESC:def O que é a destruição do ozônio ?
+NUM:date Em que ano a Mona Lisa foi pintada ?
+DESC:def O que significa "Sitting Shiva" ?
+ENTY:other Qual é a produção elétrica em Madrid ?
+LOC:mount Qual cadeia de montanhas na América do Norte se estende do Maine à Geórgia ?
+ENTY:substance Do que é feito o plástico ?
+NUM:other Qual é a população da Nigéria ?
+DESC:desc O que o seu baço faz ?
+LOC:other Onde fica o Grand Canyon ?
+HUM:ind Quem inventou o telefone ?
+NUM:date Em que ano os EUA compraram o Alasca ?
+HUM:ind Qual é o nome do líder da Irlanda ?
+DESC:def O que é fenilalanina ?
+NUM:count Quantos galões de água há em um pé cúbico ?
+ENTY:other Quais são as duas casas do ramo legislativo ?
+DESC:def O que é sonar ?
+LOC:other Na Polônia, qual é a área de Poznan ?
+DESC:def O que é fósforo ?
+LOC:other Qual é a localização do Mar da Tranquilidade ?
+NUM:speed Qual é a velocidade do som ?
+LOC:state Em qual província francesa o conhaque é produzido ?
+DESC:def O que é o Dia dos Namorados ?
+DESC:reason O que causa cabelos grisalhos ?
+DESC:def O que é hipertensão ?
+DESC:def O que é largura de banda ?
+LOC:other Qual é a ponte suspensa mais longa dos EUA ?
+DESC:def O que é um parasita ?
+DESC:def O que é o valor de uma casa ?
+DESC:desc O que os meteorologistas fazem ?
+ENTY:other Qual é o critério para ser legalmente cego ?
+HUM:ind Quem é o homem mais alto do mundo ?
+LOC:city Quais são as cidades gêmeas ?
+ENTY:other O que Edward Binney e Howard Smith inventaram em 1903 ?
+ENTY:substance Do que é feita a Estátua da Liberdade ?
+DESC:def O que é pilates ?
+LOC:other Qual planeta é conhecido como o "planeta vermelho" ?
+NUM:dist Qual é a profundidade do rio Nilo ?
+ENTY:termeq Qual é o nome do vestido tradicional coreano colorido ?
+DESC:def O que é Mardi Gras ?
+NUM:money Quantos pesos mexicanos valem em dólares americanos ?
+HUM:ind Quem foi o primeiro afro-americano a jogar pelo Brooklyn Dodgers ?
+HUM:ind Quem foi o primeiro primeiro-ministro do Canadá ?
+NUM:count Quantos almirantes existem na Marinha dos EUA ?
+ENTY:instru Qual instrumento Glenn Miller tocava ?
+NUM:period Quantos anos tinha Joana d'Arc quando morreu ?
+DESC:def O que significa a palavra "quinzena" ?
+DESC:def O que é dianética ?
+LOC:city Qual é a capital da Etiópia ?
+NUM:period Por quanto tempo um elefante está grávido ?
+DESC:manner Como Janis Joplin morreu ?
+ENTY:lang Qual é a língua principal na Islândia ?
+DESC:desc Qual é a diferença entre estações de rádio AM e FM ?
+DESC:def O que é osteoporose ?
+HUM:ind Quem foi a primeira mulher governadora nos EUA ?
+DESC:def O que é peiote ?
+DESC:reason Para que serve o esôfago ?
+DESC:def O que é viscosidade ?
+NUM:date Em que ano Oklahoma se tornou um estado ?
+ABBR:abb Qual é a abreviação para Texas ?
+ENTY:substance Do que é feito um espelho ?
+LOC:other Onde no corpo se usa um capelo ?
+HUM:ind Qual era o nome da esposa de J.F.K. ?
+ABBR:exp O que significa I.V. ?
+DESC:def O que é o túnel ?
+LOC:other Onde Hitler está enterrado ?
+DESC:def O que são antiácidos ?
+DESC:def O que é fibrose pulmonar ?
+DESC:def O que são Quaaludes ?
+DESC:def O que é naproxeno ?
+DESC:def O que é faringite estreptocócica ?
+LOC:city Qual é a maior cidade dos EUA ?
+ENTY:dismed O que é a doença da febre aftosa ?
+NUM:other Qual é a expectativa de vida de uma nota de um dólar ?
+ENTY:termeq Como se chama um cartógrafo profissional ?
+DESC:def O que são os aborígenes ?
+DESC:def O que é hibridização ?
+ENTY:color Qual é a cor do índigo ?
+NUM:period Quantos anos você precisa ter para alugar um carro na Itália ?
+ENTY:other O que mede um barômetro ?
+ENTY:color Qual é a cor da língua de uma girafa ?
+ABBR:exp O que significa USPS ?
+NUM:date Em que ano a NFL entrou em greve ?
+DESC:def O que é vento solar ?
+NUM:date Em que data Neil Armstrong pousou na lua ?
+NUM:date Quando Hiroshima foi bombardeada ?
+LOC:other Onde está o rio Savannah ?
+HUM:ind Quem foi a primeira mulher morta na Guerra do Vietnã ?
+LOC:other Qual planeta tem o campo magnético mais forte de todos os planetas ?
+HUM:ind Quem é o governador do Alasca ?
+NUM:date Em que ano Mussolini assumiu o poder na Itália ?
+LOC:city Qual é a capital da Pérsia ?
+LOC:other Onde fica a Torre Eiffel ?
+NUM:count Quantos corações tem um polvo ?
+DESC:def O que é pneumonia ?
+LOC:other Qual é o lago mais profundo dos EUA ?
+DESC:def O que é uma célula de combustível ?
+HUM:ind Quem foi o primeiro presidente dos EUA a aparecer na TV ?
+LOC:other Onde fica o Museu da Liga Infantil ?
+ENTY:other Quais são os dois tipos de gêmeos ?
+LOC:other Qual é a estrela mais brilhante ?
+DESC:def O que é diabetes ?
+NUM:date Quando o Presidente Kennedy foi assassinado ?
+ABBR:exp O que significa TMJ ?
+ENTY:color Qual é a cor do leite de iaque ?
+NUM:date Em que data Dwight D. Eisenhower nasceu ?
+ABBR:exp O que significa o termo técnico ISDN ?
+DESC:reason Por que o sol é amarelo ?
+NUM:money Qual é a taxa de conversão entre dólares e libras ?
+NUM:date Quando Abraham Lincoln nasceu ?
+DESC:def O que é a Via Láctea ?
+DESC:def O que é mofo ?
+NUM:date Em que ano Mozart nasceu ?
+ENTY:animal Como se chama um grupo de sapos ?
+ENTY:veh Qual é o nome do navio de William Penn ?
+NUM:other Qual é o ponto de fusão do ouro ?
+LOC:other Qual é o endereço da Casa Branca ?
+DESC:def O que é sêmola ?
+ENTY:food De qual fruta é feito o molho Melba ?
+DESC:def O que é Ursa Major ?
+NUM:perc Qual é a porcentagem de água no corpo humano ?
+NUM:weight Quanto pesa a água ?
+ENTY:event Qual era o nome do programa de reforma do Presidente Lyndon Johnson ?
+NUM:perc Qual é a taxa de homicídios em Windsor ?
+HUM:ind Quem é o único presidente a servir 2 mandatos não consecutivos ?
+NUM:other Qual é a população da Austrália ?
+HUM:ind Quem pintou o teto da Capela Sistina ?
+ENTY:dismed Nomeie um estimulante.
+DESC:desc Qual é o efeito dos vulcões no clima ?
+NUM:date Em que ano começou o show de Andy Griffith ?
+DESC:def O que é chuva ácida ?
+NUM:date Qual é a data da independência do México ?
+LOC:other Qual é a localização do Lago Champlain ?
+ENTY:plant Qual é a flor do estado de Illinois ?
+ENTY:animal Qual é o pássaro do estado de Maryland ?
+DESC:def O que é mercúrio ?
+HUM:ind Quem escreveu "A Divina Comédia" ?
+NUM:speed Qual é a velocidade da luz ?
+NUM:dist Qual é a largura de um campo de futebol ?
+DESC:reason Por que em tênis zero pontos são chamados de "love" ?
+ENTY:animal Qual tipo de cão era Toto no Mágico de Oz ?
+DESC:def O que é a tireoide ?
+DESC:def O que significa "ciao" ?
+ENTY:body Qual é a única artéria que carrega sangue azul do coração para os pulmões ?
+NUM:other Com que frequência o Old Faithful entra em erupção no Parque Nacional de Yellowstone ?
+DESC:def O que é ácido acético ?
+NUM:dist Qual é a elevação de St. Louis ?
+ENTY:color Qual cor o papel de tornassol fica quando entra em contato com um ácido forte ?
+ENTY:color Quais são as cores da bandeira alemã ?
+DESC:def O que é o Moulin Rouge ?
+LOC:other Qual porto soviético fica no Mar Negro ?
+NUM:weight Qual é o peso atômico da prata ?
+ENTY:currency Qual é a moeda usada no Brasil ?
+DESC:def O que são patógenos ?
+DESC:def O que é a doença da vaca louca ?
+ENTY:food Nomeie um alimento rico em zinco.
+NUM:date Quando a Carolina do Norte entrou na união ?
+LOC:other Onde vivem os caracóis de maçã ?
+DESC:def O que é ética ?
+ABBR:exp O que significa CPR ?
+DESC:def O que é uma anuidade ?
+HUM:ind Quem matou John F. Kennedy ?
+HUM:ind Quem foi o primeiro vice-presidente dos EUA ?
+ENTY:substance Qual é a pedra de nascimento de dezembro ?
+HUM:ind Quem foi o primeiro presidente dos EUA a andar de carro até sua posse ?
+NUM:period Quantos anos tinha o presidente mais jovem dos Estados Unidos ?
+NUM:date Quando Ulysses S. Grant nasceu ?
+DESC:def O que é Distrofia Muscular ?
+HUM:ind Quem morava no castelo Neuschwanstein ?
+DESC:def O que é propilenoglicol ?
+DESC:def O que é um transtorno de pânico ?
+HUM:ind Quem inventou a câmera Polaroid instantânea ?
+DESC:def O que é um carcinógeno ?
+ENTY:animal Como se chama um filhote de leão ?
+NUM:other Qual é a população mundial ?
+DESC:def O que é nepotismo ?
+DESC:def O que é fundição em molde ?
+DESC:def O que é miopia ?
+NUM:other Qual é a taxa de imposto sobre vendas em Nova York ?
+NUM:perc Nações em desenvolvimento representam qual porcentagem da população mundial ?
+LOC:mount Qual é a quarta montanha mais alta do mundo ?
+HUM:ind Qual é o apelido de Shakespeare ?
+ENTY:substance Qual é o elemento natural mais pesado ?
+NUM:date Quando é o Dia dos Pais ?
+ABBR:exp O que significa a sigla NASA ?
+NUM:dist Qual é o comprimento do rio Columbia em milhas ?
+LOC:city Qual jornal da cidade se chama "The Star" ?
+DESC:def O que é dióxido de carbono ?
+LOC:other Onde está a linha Mason-Dixon ?
+NUM:date Quando foi a Festa do Chá de Boston ?
+DESC:def O que é metabolismo ?
+HUM:ind Qual presidente dos EUA apareceu no "Laugh-In" ?
+ENTY:substance Do que são feitos os cigarros ?
+LOC:city Qual é a capital do Zimbábue ?
+ABBR:exp O que significa NASA ?
+ENTY:plant Qual é a flor do estado de Michigan ?
+DESC:def O que são semicondutores ?
+DESC:def O que é energia nuclear ?
+DESC:def O que é um tsunami ?
+HUM:ind Quem é o congressista do estado do Texas no comitê das forças armadas ?
+HUM:ind Quem era o presidente em 1913 ?
+NUM:date Quando foi o primeiro transplante de rim ?
+LOC:other Quais são os dois territórios do Canadá ?
+ENTY:veh Qual era o nome do avião que Lindbergh voou sozinho através do Atlântico ?
+DESC:def O que é genocídio ?
+LOC:other Em qual continente está a Argentina ?
+ENTY:other Qual mosteiro foi saqueado por vikings no final do século VIII ?
+DESC:def O que é um terremoto ?
+LOC:other Onde está localizada a montanha-russa mais alta ?
+DESC:def O que são enzimas ?
+HUM:ind Quem descobriu o oxigênio ?
+DESC:def O que é bangers and mash ?
+ENTY:animal Qual é o nome dado ao tigre da Universidade Estadual da Louisiana ?
+LOC:other Onde estão guardadas as joias da coroa britânica ?
+HUM:ind Quem foi a primeira pessoa a chegar ao Polo Norte ?
+DESC:def O que é uma úlcera ?
+DESC:def O que é vertigem ?
+DESC:def O que é o teste do espirômetro ?
+NUM:date Quando é o primeiro dia oficial do verão ?
+ABBR:exp O que significa a abreviação SOS ?
+ENTY:animal Qual é o menor pássaro da Grã-Bretanha ?
+HUM:ind Quem inventou o Trivial Pursuit ?
+ENTY:substance Quais gases estão na troposfera ?
+LOC:country Qual país tem a maior poluição da água ?
+ENTY:animal Qual é o nome científico do elefante ?
+HUM:ind Quem é a atriz conhecida por seu papel no filme "Gypsy" ?
+ENTY:animal Qual raça de cão de caça os Beverly Hillbillies possuíam ?
+LOC:other Qual é o lugar mais chuvoso da Terra ?
+HUM:ind Quem foi o primeiro afro-americano a ganhar o Prêmio Nobel de Literatura ?
+NUM:date Quando é o Dia de São Patrício ?
+ENTY:animal Qual era o nome do cachorro de FDR ?
+ENTY:color Quais cores precisam ser misturadas para obter a cor rosa ?
+ENTY:sport Qual é o esporte mais popular no Japão ?
+ENTY:food Qual é o ingrediente ativo no bicarbonato de sódio ?
+NUM:date Quando Thomas Jefferson nasceu ?
+NUM:temp Qual é a temperatura ideal para um refrigerador ?
+NUM:date Quando o telefone foi inventado ?
+ENTY:color Qual é a cor dos olhos mais comum ?
+LOC:other Onde foi o primeiro campo de golfe nos Estados Unidos ?
+DESC:def O que é esquizofrenia ?
+DESC:def O que é angiotensina ?
+HUM:gr O que Jesse Jackson organizou ?
+ENTY:animal Qual é o pássaro do estado de Nova York ?
+LOC:other Qual é o parque nacional em Utah ?
+NUM:date Qual é o aniversário de Susan B. Anthony ?
+LOC:state Em qual estado você encontraria as Montanhas Catskill ?
+ENTY:termeq Como se chama uma palavra que é escrita da mesma forma de trás para frente ?
+DESC:def O que são pediatras ?
+HUM:gr Qual cadeia de lojas tem sua sede em Bentonville ?
+DESC:def O que são células solares ?
+DESC:def O que é juros compostos ?
+DESC:def O que são alcaparras ?
+DESC:def O que é um antígeno ?
+ENTY:currency Qual moeda Luxemburgo usa ?
+NUM:other Qual é a população da Venezuela ?
+ENTY:other Que tipo de polímero é usado para coletes à prova de balas ?
+ENTY:currency Qual moeda a Argentina usa ?
+DESC:def O que é um termômetro ?
+LOC:city Qual cidade canadense tem a maior população ?
+ENTY:color Qual é a cor dos grilos ?
+LOC:country Qual país deu a Estátua da Liberdade para Nova York ?
+ENTY:product Qual foi o nome do primeiro satélite dos EUA enviado ao espaço ?
+ENTY:substance Qual pedra preciosa é uma forma de carbono puro ?
+ENTY:substance Qual tipo de gás está em uma lâmpada fluorescente ?
+DESC:def O que é artrite reumatoide ?
+LOC:other Qual rio passa por Rowe ?
+DESC:def O que é paralisia cerebral ?
+LOC:city Qual cidade também é conhecida como "O Portal para o Oeste" ?
+NUM:dist Qual é a distância da lua ?
+ENTY:other Qual é a fonte do gás natural ?
+ENTY:veh Em qual espaçonave o astronauta americano Alan Shepard fez seu histórico voo em 1961 ?
+DESC:def O que é pectina ?
+DESC:def O que é biodiversidade ?
+ENTY:techmeth Qual é a maneira mais fácil de remover papel de parede ?
+NUM:date Em que ano o Titanic iniciou sua jornada ?
+NUM:count Qual porcentagem de uma maçã é água ?
+HUM:ind Quem foi o 22º presidente dos EUA ?
+ENTY:currency Qual é a moeda usada na Zâmbia ?
+NUM:count Quantos pés há em uma milha ?
+ENTY:substance Qual é a pedra de nascimento de outubro ?
+DESC:def O que é e-coli ?
