@@ -1,4 +1,3 @@
-﻿# -*- coding: utf-8 -*-
 # This file comes originally from https://github.com/google-research/bert/blob/master/tokenization.py
 
 from __future__ import absolute_import
